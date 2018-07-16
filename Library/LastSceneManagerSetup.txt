@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/FantasyEnvironments/Environments/Scenes/DemoScene.unity
+  isLoaded: 1
+  isActive: 1
