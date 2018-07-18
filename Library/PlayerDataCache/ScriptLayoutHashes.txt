@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-D:/PROJECT/DEBUGGING ALL PROJECTS/VRTourDBG1/VRTourDBG1.apk
+D:/PROJECT/DEBUGGING ALL PROJECTS/VRTourDBG1/VRTourDBG2_Date_Time.apk
 SceneListBegin?
 Assets/FantasyEnvironments/Environments/Scenes/DemoScene.unity
 SceneListEnd?
@@ -311,3 +311,5 @@ a924c90a95cf65003f662aa5e30abb6b Vuforia.UnityExtensions.dll:Vuforia.VuforiaConf
 01e6f145049f3a676df6dc247eabf176 Vuforia.UnityExtensions.dll:Vuforia.VuMarkBehaviour
 3d1b89310e77c34bc0c8d7132231345c Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 05524b8f659e7bfe5756d1335fec24ba Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
+25087e1f942b14b25e0936a2870e80df Assembly-CSharp.dll:.WatchScript
+710fca680c895e44fbe0dc0f7c58c523 Assembly-CSharp.dll:.DateScript
