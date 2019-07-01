@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/FantasyEnvironments/Environments/Scenes/DemoScene.unity
-    guid: 275a29409308e634aa2aae331e6db8ba
+    path: Assets/Scene/AR-VR-Scene_Fix.unity
+    guid: 008d7afa5f87e2649a160c1434d37f21
   m_configObjects: {}
